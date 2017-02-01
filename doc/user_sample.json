@@ -1,0 +1,456 @@
+{
+  "user": {
+    "online": true,
+    "birthday": 594025200,
+    "location_long_description": "New York, NY, 美国",
+    "user_photo_status": 0,
+    "public_uid": "6878601",
+    "user_type": 0,
+    "last_online_description": "在线",
+    "admired_by_current_user": false,
+    "about_me_short": "过尽千帆皆不是，斜晖脉脉水悠悠。\n也许你找的就是我呢？\n正好我等的就是你呀！\n自我介绍（认真脸）\n文静温柔的川妹...",
+    "looking_for_details": {
+      "languages": {
+        "values": [
+          {
+            "value": "1",
+            "text": "普通话"
+          },
+          {
+            "value": "3",
+            "text": "英语"
+          }
+        ],
+        "label": "语言"
+      },
+      "location": {
+        "label": "地点",
+        "importance": {
+          "value": 0,
+          "text": "无所谓"
+        }
+      },
+      "income": {
+        "label": "年收入"
+      },
+      "ethnicity": {
+        "label": "种族"
+      },
+      "smoking": {
+        "values": [
+          {
+            "value": "1",
+            "text": "不"
+          }
+        ],
+        "label": "吸烟"
+      },
+      "marital_status": {
+        "values": [
+          {
+            "value": "1",
+            "text": "从未结婚"
+          }
+        ],
+        "label": "婚姻状况"
+      },
+      "body_type": {
+        "label": "体型"
+      },
+      "birth_country": {
+        "label": "出生地",
+        "importance": {
+          "value": 0,
+          "text": "无所谓"
+        }
+      },
+      "has_children": {
+        "values": [
+          {
+            "value": "1",
+            "text": "没有"
+          }
+        ],
+        "label": "有孩子"
+      },
+      "education": {
+        "label": "最低学历"
+      },
+      "immigration": {
+        "label": "移民身份"
+      },
+      "occupation": {
+        "label": "工作",
+        "importance": {
+          "value": 0,
+          "text": "无所谓"
+        }
+      },
+      "religion": {
+        "label": "信仰"
+      },
+      "age": {
+        "text": "28 - 40",
+        "label": "年龄",
+        "bottom": 28,
+        "top": 40
+      },
+      "height": {
+        "label": "身高"
+      },
+      "drinking": {
+        "values": [
+          {
+            "value": "2",
+            "text": "有时"
+          }
+        ],
+        "label": "饮酒"
+      }
+    },
+    "country": 1,
+    "last_online_in_natural": "当前在线",
+    "is_blocked": false,
+    "has_past_conversation": false,
+    "has_active_vip": 1,
+    "city": "New York",
+    "main_photo": {
+      "small_image_url": "https://dng86sgfbq43n.cloudfront.net/user_photos/pictures/1475221/small/2redbeans-34f89c8d76521994a486d83504617bd5129f75ea.jpg?1474854775",
+      "mobile_image_url": "https://dng86sgfbq43n.cloudfront.net/user_photos/pictures/1475221/mobile/2redbeans-34f89c8d76521994a486d83504617bd5129f75ea.jpg?1474854775",
+      "is_under_review": false,
+      "is_main_photo": true,
+      "crop_y": 0,
+      "crop_x": 0,
+      "crop_w": 200,
+      "crop_h": 200,
+      "large_image_url": "https://dng86sgfbq43n.cloudfront.net/user_photos/pictures/1475221/large/2redbeans-34f89c8d76521994a486d83504617bd5129f75ea.jpg?1474854775",
+      "flagged": 0,
+      "id": 1475221,
+      "tags": [
+        {
+          "tag": {
+            "count": 1,
+            "id": 3,
+            "index": 2,
+            "mark": 0
+          }
+        },
+        {
+          "tag": {
+            "count": 1,
+            "id": 9,
+            "index": 10,
+            "mark": 0
+          }
+        }
+      ],
+      "original_image_url": "https://dng86sgfbq43n.cloudfront.net/user_photos/pictures/1475221/original/2redbeans-34f89c8d76521994a486d83504617bd5129f75ea.jpg?1474854775",
+      "upload_uid": "3BFCDF54-A08E-424A-AAB1-E7572285E49E"
+    },
+    "created_at": "2017/01/31",
+    "honored": true,
+    "profile_details": {
+      "languages": {
+        "values": [
+          {
+            "value": "1",
+            "text": "普通话"
+          },
+          {
+            "value": "3",
+            "text": "英语"
+          }
+        ],
+        "label": "语言"
+      },
+      "income": {
+        "value": "2",
+        "text": "$50 - 75K",
+        "label": "年收入"
+      },
+      "smoking": {
+        "value": "1",
+        "text": "不",
+        "label": "吸烟"
+      },
+      "ethnicity": {
+        "value": "1",
+        "text": "华人",
+        "label": "种族"
+      },
+      "company": {
+        "label": "公司"
+      },
+      "marital_status": {
+        "value": "1",
+        "text": "从未结婚",
+        "label": "婚姻状况"
+      },
+      "body_type": {
+        "value": "3",
+        "text": "匀称",
+        "label": "体型"
+      },
+      "birth_country": {
+        "value": 2,
+        "text": "中国",
+        "label": "出生地"
+      },
+      "has_children": {
+        "value": "1",
+        "text": "没有",
+        "label": "有孩子"
+      },
+      "other_languages": {
+        "values": [],
+        "label": ""
+      },
+      "willing_to_relocate": {
+        "text": "近期不行",
+        "label": "愿意搬到心怡对象所在地"
+      },
+      "education": {
+        "value": "4",
+        "text": "硕士",
+        "label": "最高学历"
+      },
+      "immigration": {
+        "value": "2",
+        "text": "非永久居民",
+        "label": "移民身份"
+      },
+      "first_arrive": {
+        "label": "几岁到现驻国"
+      },
+      "occupation": {
+        "value": "4",
+        "text": "工程 / 科学",
+        "label": "工作"
+      },
+      "interests": {
+        "values": [
+          {
+            "value": "9",
+            "text": "远足"
+          },
+          {
+            "value": "17",
+            "text": "游泳 / 水上运动"
+          }
+        ],
+        "label": "兴趣"
+      },
+      "religion": {
+        "label": "信仰"
+      },
+      "zodiac": {
+        "value": "11",
+        "text": "天蝎座",
+        "label": "星座"
+      },
+      "cn_zodiac": {
+        "value": "5",
+        "text": "龙",
+        "label": "生肖"
+      },
+      "college": {
+        "label": "本科院校"
+      },
+      "grad_school": {
+        "label": "研究生院"
+      },
+      "job_title": {
+        "label": "职位"
+      },
+      "height": {
+        "value": 160,
+        "text": "160cm",
+        "label": "身高"
+      },
+      "drinking": {
+        "value": "2",
+        "text": "有时",
+        "label": "饮酒"
+      }
+    },
+    "state": "NY",
+    "profile_progress": 66,
+    "first_name": "Lily",
+    "seeking": 1,
+    "user_photos": [
+      {
+        "user_photo": {
+          "small_image_url": "https://dng86sgfbq43n.cloudfront.net/user_photos/pictures/1475221/small/2redbeans-34f89c8d76521994a486d83504617bd5129f75ea.jpg?1474854775",
+          "mobile_image_url": "https://dng86sgfbq43n.cloudfront.net/user_photos/pictures/1475221/mobile/2redbeans-34f89c8d76521994a486d83504617bd5129f75ea.jpg?1474854775",
+          "is_under_review": false,
+          "is_main_photo": true,
+          "crop_y": 0,
+          "crop_x": 0,
+          "crop_w": 200,
+          "crop_h": 200,
+          "large_image_url": "https://dng86sgfbq43n.cloudfront.net/user_photos/pictures/1475221/large/2redbeans-34f89c8d76521994a486d83504617bd5129f75ea.jpg?1474854775",
+          "flagged": 0,
+          "id": 1475221,
+          "tags": [
+            {
+              "tag": {
+                "count": 1,
+                "id": 3,
+                "index": 2,
+                "mark": 0
+              }
+            },
+            {
+              "tag": {
+                "count": 1,
+                "id": 9,
+                "index": 10,
+                "mark": 0
+              }
+            }
+          ],
+          "original_image_url": "https://dng86sgfbq43n.cloudfront.net/user_photos/pictures/1475221/original/2redbeans-34f89c8d76521994a486d83504617bd5129f75ea.jpg?1474854775",
+          "upload_uid": "3BFCDF54-A08E-424A-AAB1-E7572285E49E"
+        }
+      }
+    ],
+    "open_answers": [
+      {
+        "open_answer": {
+          "answer": "过尽千帆皆不是，斜晖脉脉水悠悠。\n\n也许你找的就是我呢？\n正好我等的就是你呀！\n \n \n自我介绍（认真脸）\n \n文静温柔的川妹子，喜欢火锅，会做各种川菜。国内本科，纽约硕士，纽约工作，现已工作两年多，工作相对比较轻松。没有什么特别的兴趣爱好，非要说的话应该是画画，读诗，听歌吧。周末天气好的话会去公园，植物园，动物园，博物馆之类，天气不好的话会呆在家里看电影和综艺节目，看书画画什么的。我是个积极乐观爱生活的人，对另一半没有什么特别的要求，相互看顺眼交流沟通没问题就行，如果彼此间能有点默契和共同点那就更好啦。\n \n世界那么大，我们这么小，希望2017能与你相遇携手一起走^_^\n \n愿每个进我主页的人都能很快获得属于自己的小幸福！\n \nPS: 非诚勿扰，谢谢啦。",
+          "open_question": {
+            "id": 1,
+            "description": "侃侃我自己"
+          }
+        }
+      },
+      {
+        "open_answer": {
+          "answer": "看综艺节目，听歌，散步，画画，看书",
+          "open_question": {
+            "id": 2,
+            "description": "我休闲时间通常做什么"
+          }
+        }
+      },
+      {
+        "open_answer": {
+          "answer": "听歌\n发呆\n画画",
+          "open_question": {
+            "id": 3,
+            "description": "我最喜欢的事情"
+          }
+        }
+      },
+      {
+        "open_answer": {
+          "answer": "水，空气",
+          "open_question": {
+            "id": 4,
+            "description": "五件我不能没有的东东"
+          }
+        }
+      },
+      {
+        "open_answer": {
+          "answer": "文静",
+          "open_question": {
+            "id": 5,
+            "description": "我的朋友描述我的3个形容词"
+          }
+        }
+      },
+      {
+        "open_answer": {
+          "answer": "文静\n笑点低",
+          "open_question": {
+            "id": 6,
+            "description": "大家对我的第一印象。他们最初看不到的优点。"
+          }
+        }
+      },
+      {
+        "open_answer": {
+          "answer": "没有",
+          "open_question": {
+            "id": 7,
+            "description": "我做过的最疯狂，最痛快，最秘密，或最傻的事情"
+          }
+        }
+      },
+      {
+        "open_answer": {
+          "answer": "数学老师，外婆",
+          "open_question": {
+            "id": 8,
+            "description": "我生活中对我最有影响力的人"
+          }
+        }
+      },
+      {
+        "open_answer": {
+          "answer": "积极，乐观，尊重他人，有上进心",
+          "open_question": {
+            "id": 9,
+            "description": "我未来伴侣应有的最重要的素质"
+          }
+        }
+      }
+    ],
+    "natural_looking_for_details": [
+      {
+        "natural": "男, 28 - 40岁",
+        "name": "basic"
+      },
+      {
+        "natural": "从未结婚, 没有孩子",
+        "name": "marital"
+      },
+      {
+        "natural": "",
+        "name": "background"
+      },
+      {
+        "natural": "会说普通话 / 英语",
+        "name": "other"
+      },
+      {
+        "natural": "不抽烟, 有时喝酒",
+        "name": "drink_smoke"
+      }
+    ],
+    "natural_profile_details": [
+      {
+        "natural": "女, 华人, 160cm, 匀称身材, 没有孩子, 从未结婚, 天蝎座, 属龙",
+        "name": "basic"
+      },
+      {
+        "natural": "硕士, 从事工程  /  科学工作, 收入$50 - 75K",
+        "name": "career"
+      },
+      {
+        "natural": "出生在中国, 美国非永久居民",
+        "name": "location"
+      },
+      {
+        "natural": "会说普通话, 英语",
+        "name": "languages"
+      },
+      {
+        "natural": "不抽烟, 有时喝酒",
+        "name": "drink_smoke"
+      }
+    ],
+    "is_bookmarked": false,
+    "recommend_me": 0,
+    "favorited_by_current_user": false,
+    "settings": {
+      "preferred_timezone": "America/Los_Angeles"
+    },
+    "location_short_description": "New York, NY, 美国",
+    "subscription_type": 0,
+    "common_interests": {},
+    "sex": 2,
+    "token": "CHP3PW9FzV"
+  }
+}
